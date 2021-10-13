@@ -1,6 +1,6 @@
 import React from 'react'
 
-const OppBackRow = () => {
+const YourCombatRow = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const OppBackRow = () => {
     )
 }
 
-export default OppBackRow
+export default YourCombatRow
