@@ -1,11 +1,9 @@
 import React from 'react'
 
-const YourCombatRow = () => {
+const OppCombatRow = () => {
     return (
-        <div>
-            
-        </div>
+        <></>
     )
 }
 
-export default YourCombatRow
+export default OppCombatRow
